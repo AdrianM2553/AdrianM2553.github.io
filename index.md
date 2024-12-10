@@ -3,6 +3,8 @@
 
 I'm a computer science student at Calstate Fullerton. I'm going for my bachelor's degree, but maybe I'll go for my master's if I decide to.
 
+My github page is http://github.com/AdrianM2553.github.io
+
 ## Favorite CPSC120L labs
 
 Lab 1
